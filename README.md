@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Basil Aljabri</h1>
-<h3 align="center">Computer Science Student | Java Developer | Aspiring Software Engineer</h3>
+<h3 align="center">Computer Science Student | Java & OOP | SQL | Open to Co-op</h3>
 
 <p align="center">
   <a href="mailto:basilaljabri3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -9,26 +9,25 @@
 ---
 
 ## About Me
-- Third-year **Computer Science** student at **Umm Al-Qura University**, Makkah (GPA **3.77 / 4.00**)
-- Seeking a **Cooperative Training (Co-op)** opportunity in software development
-- Strong foundation in **Java** and **Object-Oriented Programming**
-- Experienced in designing **relational databases** with SQL
-- Enjoy writing clean, readable, and maintainable code
+- Third-year **Computer Science** student at **Umm Al-Qura University**, Makkah
+- Looking for a **Cooperative Training (Co-op)** opportunity in technology: software, mobile, databases, IT, networking, or QA
+- Strongest in **Java** and **Object-Oriented Programming**
+- Designed a relational **MySQL** database as a course project
+- I care about clean, readable code
 
 ## Currently Learning
-- **Flutter & Dart**: building cross-platform mobile applications
 - **Computer Networking**: OSI and TCP/IP models, IP addressing and subnetting, routing, and core protocols (HTTP, DNS, DHCP)
+- **Flutter & Dart**: building cross-platform mobile apps
+- **Web Development**: the fundamentals of building websites
 
 ## Tech Stack
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Frameworks & Databases**
+**Databases**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools**
@@ -42,7 +41,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Library Management System](https://github.com/basilalj3/library-management-system) | Library system demonstrating OOP design: abstract classes, interfaces, polymorphic late fees, custom exceptions, and sorted collections | Java |
-| [Water Delivery Database](https://github.com/basilalj3/water-delivery-database) | Relational database for a water delivery service in Makkah and Jeddah with integrity constraints, joins, subqueries, and reporting views | MySQL |
+| [Water Delivery Database](https://github.com/basilalj3/water-delivery-database) | Relational database for a water delivery service in Makkah and Jeddah with integrity constraints, joins, subqueries, and a reporting view | MySQL |
 
 ## Contact
 Open to Co-op and internship opportunities. Feel free to reach out at **basilaljabri3@gmail.com**.
